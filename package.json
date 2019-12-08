@@ -1,0 +1,23 @@
+{
+   "name": "qb-select-strings",
+   "version": "1.0.0",
+   "description": "a simple and intuitive utility for selecting ordered sets of strings from a given array",
+   "repository": "quicbit-js/qb-select-strings",
+   "devDependencies": {
+      "tape": "^4.6.3",
+      "test-kit": "^2.5.2"
+   },
+   "scripts": {
+      "test": "tape test.js",
+      "cov": "tap --coverage-report=html test.js"
+   },
+   "keywords": [
+      "string",
+      "expression",
+      "select",
+      "match",
+      "order"
+   ],
+   "author": "Matthew Voss",
+   "license": "ISC"
+}
