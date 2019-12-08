@@ -4,8 +4,8 @@
    "description": "a simple and intuitive utility for selecting ordered sets of strings from a given array",
    "repository": "quicbit-js/qb-select-strings",
    "devDependencies": {
-      "tape": "^4.6.3",
-      "test-kit": "^2.5.2"
+      "tape": "^4.11.0",
+      "test-kit": "^2.8.7"
    },
    "scripts": {
       "test": "tape test.js",
